@@ -1,0 +1,83 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+    height: 100%;
+  }
+  body {
+     background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(Fountain.jpg);
+     background-size: cover;
+     width: 800px;
+     height: 100%;
+  }
+
+  header {
+      background-color: #FFD42A;
+      padding: 5px;
+      text-align: center;
+      font-size: 20px;
+      display: block;
+  }
+  nav {
+      background: #FFB42A;
+      border: 5px solid #D2D4CF;
+      text-align: center;
+      display: inline-block;
+      width: 100%;
+  }
+  nav ul {
+      text-align: center;
+      display: inline-block;
+      list-style-type: none;
+  }
+  nav li {
+      text-align: center;
+      display: inline-block;
+  }
+  nav li a {
+      text-align: center;
+      height: 25px;
+      padding: 12px 18px 8px 18px;
+      vertical-align: middle;
+  }
+  a {
+      color: ;
+  }
+  section {
+      width: 73%;
+      display: inline-block;
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }
+
+  .dino {
+      float: left;
+      border-style: hidden;
+      border-bottom: 30px;
+      height: 400px;
+      width: 300px;
+  }
+
+  .rainier {
+    float: left;
+    border-style: hidden;
+    border-bottom: 30px;
+    height: 400px;
+    width: 300px;
+  }
